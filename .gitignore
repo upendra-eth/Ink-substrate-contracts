@@ -5,6 +5,9 @@
 /lang/target/
 /primitives/target/
 /examples/**/target/
+/my-projects/**/target/
+/my-projects/**/**/target/
+
 /design/
 
 # Ignore backup files creates by cargo fmt.
