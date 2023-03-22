@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/data/Ink-substrate-contracts/my-projects/Cross-Contract-Calling/target/ink/base/release/build/typenum-ca61ca987a614a35/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/data/Ink-substrate-contracts/my-projects/Cross-Contract-Calling/target/ink/base/release/build/typenum-ca61ca987a614a35/out/op.rs

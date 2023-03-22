@@ -5,8 +5,8 @@
 /lang/target/
 /primitives/target/
 /examples/**/target/
-/my-projects/**/target/
-/my-projects/Cross-Contract-Calling/base/target/
+/myProjects/**/target/
+/myProjects/Cross-Contract-Calling/base/target/
 
 /design/
 
