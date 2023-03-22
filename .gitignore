@@ -6,7 +6,7 @@
 /primitives/target/
 /examples/**/target/
 /my-projects/**/target/
-/my-projects/**/base/target/
+/my-projects/Cross-Contract-Calling/base/target/
 
 /design/
 
